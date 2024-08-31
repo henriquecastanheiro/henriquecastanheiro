@@ -15,10 +15,12 @@ Um jovem dev que está começando uma jornada nesta vasta área de tecnologia.
 <h3>Entre em Contato</h3>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=henrique.castanheirotb@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/henrique-castanheiro" alt="LinkedIn"/></a>
+  <a href="mailto:henrique.castanheirotb@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:henrique.castanheirotb@gmail.com" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-castanheiro" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-castanheiro" alt="LinkedIn"/>
+  </a>
 </p>
 
 <!---
