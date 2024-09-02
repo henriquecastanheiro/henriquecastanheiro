@@ -1,7 +1,7 @@
 # Henrique Castanheiro
 
 Bem vindo ao meu perfil! 👀 <br>
-Um jovem dev que está começando uma jornada nesta vasta área de tecnologia.
+Um jovem dev que está começando uma jornada nesta vasta área da tecnologia.
 
 - 🗺️🔍 Explorando novas tecnologias e desenvolvendo soluções de software. <br>
 - 🎓 Estudando ADS no SENAI/SC. <br>
