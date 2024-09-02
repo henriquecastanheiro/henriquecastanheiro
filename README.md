@@ -10,7 +10,7 @@ Um jovem dev que está começando uma jornada nesta vasta área da tecnologia.
 [![Currently learning:](https://skillicons.dev/icons?i=java,python,eclipse)](https://skillicons.dev)<br><br>
 
 # Aprendendo
-[![My Skills](https://skillicons.dev/icons?i=vscode,postgresql,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=idea,postgresql,git,github)](https://skillicons.dev)<br><br>
 
 <h3>Entre em Contato</h3>
 
